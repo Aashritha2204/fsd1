@@ -72,4 +72,4 @@ function getWeatherDescription(code) {
         default:
             return "Unknown condition";
     }
-}
+}``
